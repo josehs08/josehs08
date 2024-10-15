@@ -1,5 +1,4 @@
-
-![github-header-image](https://github.com/user-attachments/assets/84a0dd1e-fade-4c90-ac97-5e74db54426e)
+[![github-header-image(1)](https://github.com/user-attachments/assets/bac99389-361c-419d-9422-c866b92ae89e)]
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imjoseh08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josehs08) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/zencoder) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xzencoder) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@0xzencoder) 
